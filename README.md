@@ -13,7 +13,6 @@ I am a software developer who loves to build high-performance and intuitive syst
 I have a strong foundation in full-stack programming, building APIs and interfaces for data exchange, working with technologies like Python, Django, Java, PHP, Swift, and SwiftUI, alongside modern frontend frameworks. This combination of experiences gives me a comprehensive vision from system architecture to user experience!
 
 ---
-## Sobre eu 
 
 ## Sobre Mim
 

@@ -23,8 +23,12 @@
   Sou uma desenvolvedora de software apaixonada por criar sistemas de alta performance e intuitivos. Sou estudante de Sistemas para Internet no Senac Nação Unidas, com formação técnica em TI pelo ensino médio, e atualmente expandindo minhas habilidades na Apple Developer Academy.</br>
   Antes de mergulhar no mundo mobile, construí uma base sólida como Desenvolvedora Web Full Stack. Essa combinação me dá uma forte visão de confiabilidade de sistemas e engenharia ponta a ponta para enxergar o panorama geral de cada projeto!</p>
 </div>
+<br>
+<div>
+  <a href="https://www.linkedin.com/in/isabella-avelina-de-oliveira-966938236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Isabella_Avelina-2596be?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/isaa_avelina/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@isaa_avelina-2596be?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
----
 
 ## My Stats
 <div>

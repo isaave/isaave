@@ -13,6 +13,13 @@ I am a software developer who loves to build high-performance and intuitive syst
 I have a strong foundation in full-stack programming, building APIs and interfaces for data exchange, working with technologies like Python, Django, Java, PHP, Swift, and SwiftUI, alongside modern frontend frameworks. This combination of experiences gives me a comprehensive vision from system architecture to user experience!
 
 ---
+## Sobre eu 
+
+## Sobre Mim
+
+Sou uma desenvolvedora de software apaixonada por criar sistemas de alta performance e intuitivos. Sou estudante de Sistemas para Internet no Senac Santo Amaro, com formação técnica em TI pelo ensino médio. Atualmente, estou expandindo minhas habilidades na Apple Developer Academy.
+
+Possuo uma base sólida em programação full-stack, construindo APIs e interfaces para troca de dados, trabalhando com tecnologias como Python, Django, Java, PHP, Swift e SwiftUI, além de frameworks frontend modernos. Essa combinação de experiências me proporciona uma visão abrangente, desde a arquitetura de sistemas até a experiência do usuário!
 
 ## My Stats
 
